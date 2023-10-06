@@ -1,1 +1,1 @@
-# stony-brook-python-analytics-for-excel-users
+Python analytics for Excel users -- Stony Brook resources 
